@@ -1,0 +1,240 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#ubercontainer{
+	width: 1000px;
+	height: 1200px;
+	margin-left: 100px;
+	margin-right: 130px;
+}
+
+header img{
+	width: 100px;
+	height: 100px;
+}
+
+header img,h1{
+	display: inline-block;
+
+}
+
+header h1{
+	vertical-align: top;
+	margin-top: 30px;
+}
+
+header h2{
+	color: white;
+	font-size: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	background-image: radial-gradient(#5485AB,#005E98);
+}
+
+header h1 span{
+	color:#005394;
+}
+
+.sidebar{
+	width: 130px;
+}
+
+.sidebar img{
+	width: 70px;
+}
+
+.sidebar, main{
+	display: inline-block;
+	vertical-align: top;
+}
+
+div.sidebar h5 span{
+	color: red;
+}
+
+div.sidebar p{
+	font-size: 10px;
+	font-weight: bolder;
+}
+
+div.sidebar p span{
+	color: #025E98;
+}
+
+div.sidebar button.bluebutton,button.moreresources{
+	padding: 5px 10px 5px 10px;
+	width: 130px;
+	border-radius: 5px;
+	color: white;
+	border-style: none;
+}
+
+div.sidebar button.bluebutton{
+	background-image:
+    	linear-gradient(
+      		#6196C0,
+      		#2B6A9F
+    	);
+    margin-top: 10px;
+}
+
+div.sidebar button.moreresources{
+	background-image:
+    	linear-gradient(
+      		#F4DBC5,
+      		#E97525
+    	);
+}
+
+p#separator{
+	margin-top: 15px;
+	border-bottom: 1px solid black;
+	margin-bottom: 10px;
+}
+
+
+div.sidebar div.banner{
+	margin-top: 15px;
+	background-image: url("ad_background.png");
+	color: white;
+	text-align: center;
+	padding: 10px 5px 20px 5px;
+	box-shadow: 5px 2px 2px black;
+}
+
+div.sidebar div.banner button{
+	color: white;
+	border-style: none;
+	background-image:
+    	linear-gradient(
+      		#7CCBD9,
+      		#05BBD7
+    	);
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+main{
+	width: 810px;
+	margin-left: 50px;
+}
+
+.headerofbody{
+	width: 970px;
+}
+
+.phone{
+	width: 30px;
+}
+
+.dns{
+	vertical-align: top;
+	width: 20px;
+	display: inline;
+	color: #296EA2;
+}
+
+.dnssec{
+	margin-top: 10px;
+}
+
+.dnssec,.phoneus{
+	display: inline-block;
+}
+
+.phoneus{
+	margin-left:580px;
+	vertical-align: top;
+}
+
+.phoneus img{
+	vertical-align: top;
+	margin-top: 5px;
+}
+.phoneus img,address{
+	display: inline-block;
+}
+
+address p{
+	font-size: 9px;
+	display: block;
+}
+
+.phonenumber{
+	color: #00ABD9;
+	font-size: 20px;
+}
+
+.headerofbody,.maininfo{
+	display: block;
+}
+
+.maininfo{
+	margin-top: 15px;
+	border-top: 1px solid black;
+	padding-top: 5px;
+}
+
+.maininfo h4{
+	color:#005293;
+}
+
+.maininfo p span:first-child{
+	color: #008CA6;
+}
+
+.maininfo p span:nth-child(2),.maininfo p span:nth-child(3){
+	font-weight: bolder;
+}
+
+.maininfo img{
+	width: 200px;
+}
+
+.maininfo p,ul{
+	font-size: 12px;
+}
+
+.maininfo ul{
+	margin-left: 10px;
+}
+
+.maininfo ul li span{
+	color: #008CA6;
+}
+
+.maininfo ol li span{
+	color: #008CA6;
+}
+
+.thebigthree{
+	margin-top: 20px;
+	margin-left: 50px;
+	border:5px solid #0075DA;
+	padding: 5px 5px 5px 5px;
+}
+
+.thebigthree img{
+	width: 100px;
+}
+
+.thebigthree img,div{
+	display: inline-block;
+}
+
+.bigthreedata{
+	width: 400px;
+}
+
+
+
+
+
+
+
+
+
